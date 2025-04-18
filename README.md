@@ -23,7 +23,7 @@
 
 ###
 
-### 💻 Programming Languages: ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white&size=20) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&size=20) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&size=20) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&size=20) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white&size=20) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&size=20) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&size=20)
+### 💻 Programming: ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white&size=20) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&size=20) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white&size=20) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&size=20) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white&size=20) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&size=20) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&size=20)
 
 ###
 
