@@ -1,14 +1,14 @@
 <h2 align="left">Hi!! I'm Abhinav</h2>
 
 ###
-
+<!--
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna1694&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Krishna1694&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+-->
 ###
 
 <div align="center">
@@ -18,14 +18,14 @@
   <a href="https://tryhackme.com/p/Vigi169" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=28a745&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo" />
   </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
+  <a href="https://krishna1694.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=purple&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio link" />
 </a>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZtNWkyeXEzODl4b2VkdjJ6eHc3NjJ4bDBmZWdhcHBiNGhiNWx2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-### 🛡️ Cybersecurity Tools: ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white&size=20) ![Nmap](https://img.shields.io/badge/Nmap-3980CE?style=flat&logo=nmap&logoColor=white&size=20) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burpsuite&logoColor=white&size=20) ![Steganography](https://img.shields.io/badge/Steganography-9B8B3D?style=flat&logo=python&logoColor=white&size=20)
+### 🛡️ Cybersecurity Tools: ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoft&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burpsuite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-3980CE?style=flat&logo=nmap&logoColor=white) ![Nessus](https://img.shields.io/badge/Nessus-00AEEF?style=flat&logo=tenable&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=flat&logo=metasploit&logoColor=white) 
 
 ###
 
