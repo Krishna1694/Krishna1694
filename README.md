@@ -53,9 +53,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Krishna1694/count.svg?"  />
-</div>
-
-###
